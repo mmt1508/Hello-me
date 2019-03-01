@@ -9,3 +9,6 @@ This is official tutorial cource test site.
 and this is modified in other branch
 
 ...and modified again in future branch.
+
+
+And more, added by 'atakaba'.
